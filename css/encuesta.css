@@ -1,0 +1,25 @@
+h2{
+    font-size: 3rem;
+    font-family: "Bebas Neue", sans-serif;
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 3rem;
+    letter-spacing: 1.3rem ;
+}
+
+body{
+    --opacidad-negro: 0.5;
+    background-image: linear-gradient(rgba(0,0,0, var(--opacidad-negro)));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.inicio{
+    padding-top: 3rem;
+}
+.info{
+    font-size: 1.5rem;
+    word-spacing: 0.9rem;
+    text-shadow: 2px 2px 4px;
+}
